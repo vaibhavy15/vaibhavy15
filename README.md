@@ -233,11 +233,25 @@ PYTHON · JAVA · JAVASCRIPT · FASTAPI · SQL · OPENCV · THREE.JS · GIT · L
 
 🟡 PAC-MAN EATS MY CONTRIBUTIONS
 
-<img src="https://raw.githubusercontent.com/vaibhavy15/vaibhavy15/output/pacman-contribution-graph.svg" alt="Pac-Man GitHub contribution graph" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vaibhavy15/vaibhavy15/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vaibhavy15/vaibhavy15/output/pacman-contribution-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/vaibhavy15/vaibhavy15/output/pacman-contribution-graph.svg"
+    alt="Pac-Man GitHub contribution graph"
+    width="100%"
+  />
+</picture>
 
 <br/>
 
-COMMITS → DOTS    PAC-MAN → PROGRESS
+COMMITS → DOTS    •    PAC-MAN → PROGRESS
 
 <br/><br/>
 
@@ -249,42 +263,59 @@ COMMITS → DOTS    PAC-MAN → PROGRESS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhavy15&show_icons=true&hide_border=true&rank_icon=github&bg_color=05070A&title_color=67E8F9&icon_color=67E8F9&text_color=C9D1D9" />
+<a href="https://github.com/vaibhavy15">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=vaibhavy15&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    alt="Vaibhav GitHub stats"
+  />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavy15&layout=compact&hide_border=true&bg_color=05070A&title_color=67E8F9&text_color=C9D1D9" />
+<a href="https://github.com/vaibhavy15">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavy15&layout=compact&hide_border=true&theme=transparent"
+    alt="Vaibhav top languages"
+  />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vaibhavy15&theme=transparent&hide_border=true&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=7D8590" />
+<img
+src="https://streak-stats.demolab.com?user=vaibhavy15&theme=transparent&hide_border=true&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=7D8590"
+alt="Vaibhav GitHub streak"
+/>
 
 </div>
 
 💻 DEVELOPER CONSOLE
 
-╭──────────────────────────────────────────────────────╮
-│ VAIBHAV / DEV CONSOLE                                │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  ROLE        AI / ML ENGINEER                       │
-│  HANDLE      @vaibhavy15                            │
-│  STATUS      ONLINE                                 │
-│  MODE        BUILD                                  │
-│                                                      │
-│  ── CURRENT FOCUS ────────────────────────────────   │
-│                                                      │
-│  [01] Artificial Intelligence                       │
-│  [02] Machine Learning                              │
-│  [03] Computer Vision                               │
-│  [04] Developer Tools                               │
-│  [05] Interactive 3D                                │
-│                                                      │
-│  ── SYSTEM ───────────────────────────────────────   │
-│                                                      │
-│  LEARN      ████████████████████░░░                 │
-│  BUILD      ██████████████████████                  │
-│  EXPLORE    █████████████████░░░░░                  │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+<div align="center">
+
+┌──────────────────────────────────────┐
+│ VAIBHAV / DEV                        │
+├──────────────────────────────────────┤
+│ HANDLE  @vaibhavy15                  │
+│ ROLE    AI / ML ENGINEER             │
+│ MODE    BUILD                        │
+│ STATUS  ● ONLINE                     │
+│                                      │
+│ CURRENT FOCUS                        │
+│                                      │
+│ 01  Artificial Intelligence          │
+│ 02  Machine Learning                 │
+│ 03  Computer Vision                  │
+│ 04  Developer Tools                  │
+│ 05  Interactive 3D                   │
+│                                      │
+│ SYSTEM                               │
+│                                      │
+│ LEARN      ████████████████░░        │
+│ BUILD      ████████████████████      │
+│ EXPLORE    ███████████████░░░        │
+└──────────────────────────────────────┘
+
+</div>
 
 🧠 BUILD PHILOSOPHY
 
