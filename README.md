@@ -1,313 +1,262 @@
 <div align="center">
 
-VAIBHAV
+<br>
 
-AI/ML ENGINEER · BUILDER · PROBLEM SOLVER
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&text=VAIBHAV&fontSize=62&fontColor=EAF6FF&desc=AI%20%2F%20ML%20ENGINEER%20%20%C2%B7%20BUILDER%20%20%C2%B7%20PROBLEM%20SOLVER&descAlignY=72&descSize=16&color=0:05070A,45:0B1118,100:071A2A" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+intelligent+systems;Turning+ideas+into+working+products;Machine+Learning+%7C+AI+%7C+Full+Stack+%7C+3D;Always+learning.+Always+building." alt="Typing animation" />
-</p>
+<br>
 
-<p>
-  <a href="https://github.com/VaibhavYadav">
-    <img src="https://img.shields.io/badge/GitHub-VaibhavYadav-161B22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=VaibhavYadav&style=for-the-badge&color=161B22" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=building+intelligent+systems;turning+ideas+into+real+products;AI+%2B+software+%2B+creative+experiences" />
+
+<br><br>
+
+<a href="https://github.com/vaibhavy15">
+<img src="https://img.shields.io/badge/PROFILE-vaibhavy15-0B1118?style=flat-square&logo=github&logoColor=67E8F9" />
+</a>
+&nbsp;
+<a href="https://github.com/vaibhavy15?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0B1118?style=flat-square&logo=rocket&logoColor=67E8F9" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=vaibhavy15&style=flat-square&color=0B1118&label=VISITORS" />
 
 </div>
 
-◈ WHO I AM
+<br>
 
-I'm Vaibhav, a developer focused on building practical software at the intersection of AI, machine learning, backend systems, and interactive experiences.
+<div align="center">
 
-I like taking an idea from:
+I BUILD THINGS THAT THINK.
 
-CONCEPT → ARCHITECTURE → CODE → PRODUCT
+AI / ML · COMPUTER VISION · FULL STACK · 3D
 
-My current work combines intelligent data processing, computer vision, AI-powered developer tools, and cinematic web experiences.
+<br>
 
-⚡ CURRENT FOCUS
+Curious about difficult problems. Obsessed with building better solutions.
+
+</div>
+
+About
+
+I'm Vaibhav — a developer exploring the space between intelligence and engineering.
+
+My work ranges from AI-powered developer tools and machine-learning systems to immersive 3D web experiences.
+
+I enjoy the complete loop:
+
+idea → architecture → implementation → experiment → product
+
+I care about clean systems, useful interfaces, and projects that are interesting enough to keep improving.
+
+Selected Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-AI / ML
+REPO MIND
 
-Machine Learning systems
+Repository intelligence, powered by AI.
 
-Computer Vision
+RepoMind helps developers understand unfamiliar repositories through natural-language interaction, semantic retrieval and AI-generated context.
 
-LLM-powered applications
+What it does
 
-Semantic search & retrieval
+GitHub Import
+Semantic Code Search
+AI Chat
+Code Summaries
+Architecture Understanding
 
-Data-driven decision systems
+Built with
+
+Python FastAPI Gemini 2.5 Flash
+ChromaDB PostgreSQL GitHub
 
 </td>
-<td width="50%">
 
-ENGINEERING
+<td width="50%" valign="top">
 
-Python & Java
+SLOPE SENTINEL
 
-FastAPI & APIs
+Computer vision for slope-risk monitoring.
 
-SQL & databases
+A monitoring concept that processes visual information and translates detected changes into understandable risk levels.
 
-Git & Linux
+Pipeline
 
-Modern JavaScript
+Video → Frames → Processing → Detection → Risk Model → Alert
 
-Three.js / WebGL
+Built with
+
+Python OpenCV
+Machine Learning Computer Vision API
 
 </td>
 </tr>
 </table>
 
-🚀 SELECTED BUILDS
+<br>
 
-01 · REPO MIND
+<table>
+<tr>
+<td width="50%" valign="top">
 
-AI-powered repository intelligence
+CINEMATIC 3D PORTFOLIO
 
-RepoMind turns a code repository into something you can actually talk to.
+A portfolio designed like an experience.
 
-It combines repository ingestion, semantic retrieval, vector search and LLM reasoning to help developers understand unfamiliar codebases faster.
+Instead of scrolling through pages, the visitor moves through a visual world — from a bus stand to a final destination.
 
-Core capabilities
+Three.js WebGL JavaScript
 
-GitHub Import · Semantic Code Search · AI Chat · Code Summaries · Architecture Understanding · Repository Dashboard
+</td>
 
-Stack
+<td width="50%" valign="top">
 
-Python FastAPI Google Gemini 2.5 Flash ChromaDB PostgreSQL GitHub Vercel Render
+CROP RECOMMENDATION
 
-02 · SLOPE SENTINEL
+Data → prediction → recommendation.
 
-AI-assisted slope & rockfall risk monitoring
+A machine-learning project focused on recommending suitable crops from agricultural input features.
 
-A computer-vision-driven monitoring concept designed to identify visual changes and classify potential slope risk.
+Python Machine Learning Data Processing
 
-CAMERA / VIDEO
-      ↓
-FRAME EXTRACTION
-      ↓
-IMAGE PREPROCESSING
-      ↓
-FEATURE / OBJECT DETECTION
-      ↓
-RISK MODEL
-      ↓
-NORMAL · WARNING · CRITICAL
-      ↓
-ALERT / DASHBOARD
+</td>
+</tr>
+</table>
 
-Stack
+<div align="center">
 
-Python OpenCV Machine Learning Computer Vision API Dashboard
+THE STACK
 
-03 · CINEMATIC 3D PORTFOLIO
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,postgres,mysql,opencv,threejs,git,github,linux,vscode&perline=7" />
 
-A portfolio designed as an interactive world, not a static page.
+</div>
 
-The experience follows a story:
+<br>
 
-BUS STAND
-   ↓
-ROAD
-   ↓
-CENTRAL PLAZA
-   ↓
-ACHIEVEMENT TOWER
-   ↓
-ROOFTOP
-   ↓
-PARACHUTE DESCENT
-   ↓
-PROJECTS
-   ↓
-FINAL BUILDING
-   ↓
-MY WORLD
+How I Build
 
-Stack
-
-HTML5 CSS3 JavaScript Three.js WebGL
-
-04 · CROP RECOMMENDATION SYSTEM
-
-Machine-learning based crop recommendation
-
-A data-driven system that uses agricultural input features to recommend suitable crops.
-
-Focus
-
-Machine Learning · Data Processing · Prediction · Python
-
-🧠 HOW I THINK ABOUT BUILDING
-
-                         ┌─────────────────┐
-                         │     PROBLEM      │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │    RESEARCH     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                 ┌────────────────────────────────┐
-                 │          ARCHITECTURE           │
-                 └───────────────┬────────────────┘
+                         ┌───────────────┐
+                         │    PROBLEM    │
+                         └───────┬───────┘
                                  │
-                    ┌────────────┴────────────┐
-                    ▼                         ▼
-             ┌─────────────┐           ┌─────────────┐
-             │   AI / ML   │           │  SOFTWARE   │
-             └──────┬──────┘           └──────┬──────┘
-                    └────────────┬────────────┘
                                  ▼
-                         ┌─────────────────┐
-                         │     PRODUCT     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │ ITERATE + SHIP  │
-                         └─────────────────┘
-
-I care about more than making something work.
-
-I care about making it:
-
-useful · understandable · scalable · visually strong
-
-🛠️ TOOLBOX
-
-<div align="center">
-
-LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-
-AI / DATA
-
-<img src="https://skillicons.dev/icons?i=python,opencv" />
-
-BACKEND / DATABASE
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql,mysql" />
-
-WEB / 3D
-
-<img src="https://skillicons.dev/icons?i=threejs,js,html,css" />
-
-ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-</div>
-
-📊 GITHUB TELEMETRY
+                         ┌───────────────┐
+                         │    EXPLORE    │
+                         └───────┬───────┘
+                                 │
+                   ┌─────────────┴─────────────┐
+                   ▼                           ▼
+             ┌───────────┐               ┌───────────┐
+             │   AI / ML │               │  PRODUCT  │
+             └─────┬─────┘               └─────┬─────┘
+                   └─────────────┬─────────────┘
+                                 ▼
+                         ┌───────────────┐
+                         │     BUILD     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │ TEST / LEARN  │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     SHIP      │
+                         └───────────────┘
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VaibhavYadav&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" />
+GITHUB // LIVE SIGNAL
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavYadav&layout=compact&hide_border=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavy15&show_icons=true&hide_border=true&rank_icon=github&bg_color=05070A&title_color=67E8F9&icon_color=67E8F9&text_color=C9D1D9" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavy15&layout=compact&hide_border=true&bg_color=05070A&title_color=67E8F9&text_color=C9D1D9" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=vaibhavy15&theme=transparent&hide_border=true&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=7D8590" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VaibhavYadav&theme=github-dark-blue&hide_border=true" />
+CONTRIBUTION FIELD
+
+<img src="https://raw.githubusercontent.com/vaibhavy15/vaibhavy15/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" />
 
 </div>
 
-🧩 CONTRIBUTION MAP
+Developer Console
+
+╭──────────────────────────────────────────────────────╮
+│ VAIBHAV / DEV CONSOLE                                │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ROLE        AI / ML ENGINEER                       │
+│  LOCATION    ONLINE                                 │
+│  MODE        BUILD                                  │
+│                                                      │
+│  FOCUS       ───────────────────────────────         │
+│              Artificial Intelligence                │
+│              Machine Learning                       │
+│              Computer Vision                        │
+│              Developer Tools                        │
+│              Interactive 3D                         │
+│                                                      │
+│  CURRENT     [ building ]                           │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VaibhavYadav/VaibhavYadav/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+A FEW THINGS I BELIEVE
+
+Build before perfecting.
+
+Understand before optimizing.
+
+Make complicated technology feel simple.
+
+Every project should teach you something.
 
 </div>
 
-💻 TERMINAL
+Beyond the Code
 
-$ whoami
-vaibhav
+The long-term goal is simple:
 
-$ cat mission.txt
-Build things that are useful.
-Learn things that are difficult.
-Ship things that matter.
+Build intelligent products that people actually want to use.
 
-$ ./current_focus.sh
+That means learning deeper fundamentals, experimenting with new AI systems, improving engineering discipline, and creating experiences that feel as good as the technology underneath them.
 
-[01] AI / ML
-[02] Computer Vision
-[03] Developer Tools
-[04] Full-Stack Engineering
-[05] Interactive 3D Experiences
-
-$ status
-████████████████████████████  ONLINE
-
-📌 PRINCIPLES
-
-Build first. Improve relentlessly.
-
-Understand the problem before choosing the technology.
-
-Good engineering should feel simple from the outside.
-
-A project is not finished when the code works — it's finished when someone can use it.
-
-🌌 WHAT'S NEXT
-
-I'm continuing to explore systems where AI + software + interaction come together.
-
-The goal isn't to build the biggest stack.
-
-The goal is to build better things.
-
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-UNDERSTAND
-  ↓
-REBUILD
-  ↓
-SHIP
-  ↺
-
-🤝 LET'S BUILD
-
-If you're interested in:
-
-AI · Machine Learning · Computer Vision · Developer Tools · Full Stack · 3D Web
-
-feel free to connect.
+LEARN ──► BUILD ──► BREAK ──► UNDERSTAND ──► REBUILD ──► SHIP
+   ▲                                                        │
+   └────────────────────────────────────────────────────────┘
 
 <div align="center">
 
-<a href="https://github.com/VaibhavYadav">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
+LET'S BUILD SOMETHING INTERESTING.
+
+<br>
+
+<a href="https://github.com/vaibhavy15">
+<img src="https://img.shields.io/badge/VAIBHAVY15-0B1118?style=for-the-badge&logo=github&logoColor=67E8F9" />
 </a>
 
-<br/><br/>
+<br><br>
 
-BUILD → LEARN → REPEAT
+AI · ML · CV · SOFTWARE · 3D
 
-</div>
+<br><br>
 
-<div align="center">
+KEEP BUILDING.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:161b22,100:58a6ff" />
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:05070A,50:0B1118,100:0E7490" />
 
 </div>
